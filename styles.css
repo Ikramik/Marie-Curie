@@ -26,10 +26,10 @@ h2 {
  font-size: 3.25rem;
 }
 a {
-  color: #60aadb;
+  color: #002534;
   }
 a:visited {
-  color:  #002ca8;
+  color:  #007744;
  }
 #main {
  margin: 30px 8px;
@@ -81,7 +81,7 @@ ul {
   }
 hr {
   height: 2px;
-  background-color: #046e67;
+  background-color: #042e29;
   border-color: #046e67;
   max-width:60%;
 }
